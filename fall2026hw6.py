@@ -5,7 +5,7 @@ import math
 # problem 1
 #input array of report IDs (as +integers)
 #output two lists: list1 = unique IDs, list2 = [(id,cnt),...] ids and occurrences
-print("Problem 1")
+print("\n Problem 1")
 def duplicate_reports(r_ids):
     unique = []
     duplicates = []
